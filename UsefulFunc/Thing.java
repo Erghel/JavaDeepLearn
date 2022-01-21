@@ -1,5 +1,4 @@
-
-class Main {
+public class Main {
 	public static void main(String args[]) {
 		int var1 = 42;
 		int var2 = ~var1;
