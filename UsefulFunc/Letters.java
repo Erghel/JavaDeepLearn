@@ -4,7 +4,7 @@ public class Main {
   public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
     System.out.print("Введите число: ");
-    ont n = in.nextInt();
+    int n = in.nextInt();
     int i,j;
     for (i=1; i<=n; i++)
     {
